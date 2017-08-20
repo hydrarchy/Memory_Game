@@ -1,0 +1,25 @@
+.game-container {
+  margin: auto;
+  width: 550px;
+  height: auto;
+  padding: 30px;
+  background: #3EB489;
+  border-radius: 15px 50px;
+  box-shadow: 5px 5px 5px black;
+}
+
+.row-1, .row-2, .row-3, .row-4 {
+  display: flex;
+  padding: 10px;
+  background: #3EB489;
+  width: 500px;
+  margin: auto;
+  justify-content: space-between;
+}
+.game-square {
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  background: #824D60;
+  border-radius: 15px;
+}
