@@ -34,4 +34,9 @@
   background: #00DEFF;
   border-radius: 15px;
   box-shadow: 2px 2px 2px black;
+  display: flex
+}
+
+.back-image {
+  margin: auto
 }
